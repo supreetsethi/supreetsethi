@@ -12,15 +12,13 @@
 
 
 <picture>
- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&hide=contribs,prs&theme=radical"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&theme=radical&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true" />
 </picture>
-
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on .NetCore, REST API, Angular, SQL, Node, Mongo
