@@ -13,7 +13,7 @@
 
 <picture>
  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&hide=contribs,prs"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false" />
   <source
