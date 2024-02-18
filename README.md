@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Supreet Sethi
+
+<a href="https://stackexchange.com/users/1838322"><img src="https://stackexchange.com/users/flair/1838322.png" width="208" height="58" alt="profile for Supreet on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Supreet on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <!--
 **supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
