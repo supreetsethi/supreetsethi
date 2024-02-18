@@ -13,11 +13,11 @@
 
 <picture>
  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&hide=contribs,prs&theme=dark"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&theme=onedark&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=false&theme=onedark&hide=contribs,prs&theme=dark"
   />
 </picture>
 
