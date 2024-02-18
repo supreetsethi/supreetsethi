@@ -5,10 +5,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/supreet-sethi-21a79b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a target="_blank" href="https://www.linkedin.com/in/supreet-sethi-21a79b16/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a target="_blank" href="https://medium.com/@supreet1986">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </div>
 
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
