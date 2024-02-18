@@ -10,7 +10,9 @@
   </a>
 </div>
 
-
+<a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F1668254%2Fsupreet">
+</a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=radical"
