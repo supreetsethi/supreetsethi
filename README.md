@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="https://stackexchange.com/users/1838322"><img src="https://stackexchange.com/users/flair/1838322.png" width="208" height="58" alt="profile for Supreet on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Supreet on     Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-  <a target="blank" href="https://www.linkedin.com/in/supreet-sethi-21a79b16/">
+  <a target="_blank" href="https://www.linkedin.com/in/supreet-sethi-21a79b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
