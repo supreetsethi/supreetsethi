@@ -21,6 +21,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true" />
 </picture>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supreetsethi)](https://github.com/supreetsethi/github-readme-stats)
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on .NetCore, REST API, Angular, SQL, Node, Mongo
