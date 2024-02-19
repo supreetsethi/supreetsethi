@@ -13,7 +13,7 @@
 [![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=dark)](https://github.com/supreetsethi/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&hide_progress=false&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&layout=compact&theme=dark#gh-dark-mode-only)
 
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
