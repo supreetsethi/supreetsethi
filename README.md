@@ -10,19 +10,7 @@
   </a>
 </div>
 
-[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/supreetsethi/github-readme-stats#gh-light-mode-only)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true" />
-</picture>
+[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=default#gh-dark-mode-only)](https://github.com/supreetsethi/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&hide_progress=false&theme=dark#gh-dark-mode-only)
 
