@@ -17,8 +17,8 @@
 
 - 🔭 I’m currently working on E-Commerce, Taxation applications 
 - 🌱 I’m currently learning Azure Cloud Service and preparing for AZ-204
-- ⚡ Technologies: Asp.NET, SQL Server, MVC, Angular, Node, JavaScript, JQuery, MongoDB, ExpressJS, HTML5, ES6+, Azure Service
-<!--- 👯 I’m looking to collaborate on ...
+<!--- - ⚡ Technologies: Asp.NET, SQL Server, MVC, Angular, Node, JavaScript, JQuery, MongoDB, ExpressJS, HTML5, ES6+, Azure Service
+ 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -28,6 +28,6 @@
 ## 🧰 Technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,bootstrap,css,dotnet,html,js,jquery,mongodb,nodejs,postman,angular,vscode,visualstudio&perline=30&&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,bootstrap,css,dotnet,html,js,jquery,mongodb,nodejs,postman,angular,vscode,visualstudio,express&perline=30&&theme=light" />
   </a>
 </p>
