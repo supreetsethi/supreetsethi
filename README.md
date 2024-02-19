@@ -28,6 +28,6 @@
 ## 🧰 Technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,bootstrap,css,dotnet,html,js,jquery,mongodb,nodejs,postman,angular,vscode,visualstudio&perline=30&height=20" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,bootstrap,css,dotnet,html,js,jquery,mongodb,nodejs,postman,angular,vscode,visualstudio&perline=30&&theme=light" />
   </a>
 </p>
