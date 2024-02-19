@@ -10,7 +10,7 @@
   </a>
 </div>
 
-[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=radical)](https://github.com/supreetsethi/github-readme-stats)
+[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=dark)](https://github.com/supreetsethi/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&hide_progress=false&theme=dark#gh-dark-mode-only)
 
