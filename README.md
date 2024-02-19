@@ -22,18 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=supreetsethi"
-    media="(prefers-color-scheme: radical)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=supreetsethi"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=supreetsethi">
-</picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi)](https://github.com/supreetsethi/github-readme-stats)
 
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
