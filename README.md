@@ -28,6 +28,6 @@
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,bootstrap,CSS,dotnet,HTML,js,jquery,mongoDB,nodejs,postman,angular,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,azure,bootstrap,css,dotnet,HTML,js,jquery,mongodb,nodejs,postman,angular,vscode,visualstudio" />
   </a>
 </p>
