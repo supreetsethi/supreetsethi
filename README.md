@@ -1,4 +1,4 @@
-### Hi 👋 I'm Supreet Sethi
+### Hi 👋 I'm Supreet Sethi, a self-taught passionate Dotnet, Angular Fullstack developer from India 🇮🇳
 
 <div id="badges">
   <a target="_blank" href="https://stackexchange.com/users/1838322"><img src="https://stackexchange.com/users/flair/1838322.png" width="208" height="58" alt="profile for Supreet on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Supreet on     Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
