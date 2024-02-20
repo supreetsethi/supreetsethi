@@ -9,9 +9,26 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+<br>
+<table>
+<thead>
+<tr>
+<th>
+  
+   [![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=buefy&hide_border=true)](https://github.com/supreetsethi/github-readme-stats)  
 
-[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi&show_icons=true&theme=dark&layout=compact)](https://github.com/supreetsethi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&layout=compact&theme=dark#gh-dark-mode-only)
+</th>
+<th>
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi&layout=compact&theme=buefy&hide_border=true) 
+
+</th>
+</tr>
+</thead>
+</table>
+
+
+ 
 
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
