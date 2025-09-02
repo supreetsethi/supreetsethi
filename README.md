@@ -33,7 +33,6 @@
 <!--**supreetsethi/supreetsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on E-Commerce, Taxation applications 
-- 🌱 I’m currently learning Azure Cloud Service and preparing for AZ-204
 <!--- - ⚡ Technologies: Asp.NET, SQL Server, MVC, Angular, Node, JavaScript, JQuery, MongoDB, ExpressJS, HTML5, ES6+, Azure Service
  👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
