@@ -151,13 +151,63 @@ Exploring AI-assisted software development using:
 
 ## Technology Stack
 
+### Core Technologies
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,react,azure,aws,sqlserver,mongodb,postgres,docker,kubernetes,git,githubactions,nodejs,python,vscode,visualstudio,postman,html,css,tailwind,bootstrap&perline=12&theme=light" />
-  </a>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" height="22" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="22" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="22" alt="React"/>
 </p>
 
----
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="22" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="22" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height="22" alt="Azure DevOps"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="22" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="22" alt="Azure SQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="22" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22" alt="PostgreSQL"/>
+</p>
+
+### Testing, Quality & Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" height="22" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white" height="22" alt="SonarCloud"/>
+  <img src="https://img.shields.io/badge/Veracode-0073CF?style=flat&logoColor=white" height="22" alt="Veracode"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="22" alt="Postman"/>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="22" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="22" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="22" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" height="22" alt="Visual Studio"/>
+</p>
+
+### AI Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" height="22" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat" height="22" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Antigravity-5E5CE6?style=flat" height="22" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white" height="22" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white" height="22" alt="ChatGPT"/>
+</p>
 
 ## What I Build
 
