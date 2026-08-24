@@ -178,20 +178,15 @@ I’m particularly interested in the engineering challenges involved in taking A
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td>
+<p align="center">
+  <a href="https://github.com/supreetsethi">
+    <img src="https://github-stats-extended.vercel.app/api?username=supreetsethi&show_icons=true&hide_border=true&theme=default" alt="Supreet's GitHub Stats" />
+  </a>
+  <a href="https://github.com/supreetsethi">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=supreetsethi&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  </a>
+</p>
 
-[![Supreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreetsethi\&show_icons=true\&theme=buefy\&hide_border=true)](https://github.com/supreetsethi/github-readme-stats)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreetsethi\&layout=compact\&theme=buefy\&hide_border=true)
-
-</td>
-</tr>
-</table>
 
 ---
 
