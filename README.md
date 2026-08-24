@@ -10,9 +10,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/supreet-21a79b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a target="_blank" href="https://medium.com/@supreet1986">
+<!--  <a target="_blank" href="https://medium.com/@supreet1986">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -201,9 +201,9 @@ I’m particularly interested in the engineering challenges involved in taking A
   <a target="_blank" href="https://www.linkedin.com/in/supreet-21a79b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a target="_blank" href="https://medium.com/@supreet1986">
+ <!-- <a target="_blank" href="https://medium.com/@supreet1986">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  </a> -->
 </p>
 
 <p>
