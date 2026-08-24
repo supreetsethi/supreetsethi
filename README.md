@@ -1,60 +1,34 @@
 <h1 align="center">Hi, I'm Supreet Sethi</h1>
 
-<h3 align="center">Senior Software Engineer | .NET & Azure | Full-Stack Developer | AI Engineering</h3>
+<h3 align="center">Senior Software Engineer | .NET & Angular | Azure | Full-Stack Development</h3>
 
 <p align="center">
-  <b>14+ years of experience building enterprise applications, distributed systems and modern AI-powered solutions.</b>
+  <b>14+ years of experience building enterprise applications, APIs, cloud solutions and modern web applications.</b>
 </p>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/supreet-21a79b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--  <a target="_blank" href="https://medium.com/@supreet1986">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a> -->
 </p>
 
 ---
 
 ## About Me
 
-I’m a Senior Software Engineer and Full-Stack Developer with **14+ years of experience** designing and building enterprise applications using **.NET, C#, Angular, SQL Server and Azure**.
+I’m a **Senior Software Engineer and Full-Stack Developer with 14+ years of experience**, specializing in **.NET, C#, Angular, SQL Server and Microsoft Azure**.
 
-My core experience is in full-stack and backend engineering, cloud applications, microservices, APIs, databases and DevOps.
+My experience includes designing and developing enterprise applications, REST APIs, microservices, cloud solutions and modern web applications.
 
-I’m currently expanding my focus into **AI Engineering** and exploring how LLMs, RAG, AI Agents and Local AI can be integrated into real-world applications.
+I have worked across the full software development lifecycle — from **requirements analysis and solution design to development, code reviews, deployment and production support**.
 
-I prefer learning by building practical projects and proofs of concept rather than only studying concepts.
-
----
-
-## AI Engineering
-
-Currently exploring and building with:
-
-* Large Language Models (LLMs)
-* Generative AI
-* RAG (Retrieval-Augmented Generation)
-* AI Agents
-* Multi-Agent Systems
-* Local LLMs
-* Ollama
-* Model Fine-Tuning
-* LoRA
-* Quantization
-* MCP (Model Context Protocol)
-* AI + .NET
-* `Microsoft.Extensions.AI`
-* AI application architecture
-
-My goal is to understand not only how to use AI models, but also how to **design, integrate and build reliable AI-powered applications**.
+I also enjoy exploring emerging technologies through hands-on **AI and automation POCs**, particularly around LLMs, RAG, AI Agents and local AI.
 
 ---
 
-## Software Engineering
+## Core Expertise
 
-### Backend
+### Backend & API Development
 
 * C#
 * .NET / .NET Core
@@ -62,11 +36,12 @@ My goal is to understand not only how to use AI models, but also how to **design
 * Web API / REST APIs
 * Entity Framework / EF Core
 * Microservices
+* Distributed applications
 * SQL Server / Azure SQL
-* NoSql
+* NoSQL / MongoDB
 * PostgreSQL
 
-### Frontend
+### Frontend Development
 
 * Angular
 * TypeScript
@@ -88,37 +63,89 @@ My goal is to understand not only how to use AI models, but also how to **design
 * Docker
 * Kubernetes
 * CI/CD
-* AWS
+
+
+### Engineering & Architecture
+
+* Enterprise Application Architecture
+* System Design
+* Microservices Architecture
+* REST API Design
+* Distributed Systems
+* Cloud-Native Applications
+* Database Design
+* Performance Optimization
+* Code Review
+* CI/CD
+* Agile Development
 
 ---
 
-## Projects & Experiments
+## AI & Emerging Technology POCs
 
-I use this profile to share practical projects and experiments around:
+While my primary expertise is **.NET and Angular**, I actively explore AI and emerging technologies through practical projects and proofs of concept.
 
-**AI + .NET**
+### Generative AI & Local LLMs
 
-Exploring how LLMs and AI capabilities can be integrated into modern .NET applications.
+Hands-on experimentation with:
 
-**Local AI**
+* LLMs and Generative AI
+* Ollama
+* Local LLM inference
+* Structured AI responses
+* Model fine-tuning
+* LoRA
+* Quantization
+* GGUF
 
-Building applications using local models with Ollama and exploring model selection, quantization and local inference.
+### RAG & AI Agents
 
-**RAG**
+Hands-on POCs around:
 
-Experimenting with embeddings, retrieval and domain-specific knowledge to build more useful AI applications.
+* Retrieval-Augmented Generation (RAG)
+* Embeddings and vector search
+* Tool calling
+* AI agents
+* Multi-agent workflows
+* Reflection and verification patterns
+* Agent orchestration
 
-**AI Agents**
+### AI Frameworks
 
-Exploring tool calling, agent orchestration, multi-agent workflows, reflection and verification patterns.
+Hands-on exploration of:
 
-**MCP**
+* CrewAI
+* LangChain
+* LangGraph
+* Microsoft.Extensions.AI
+* `IChatClient`
+* `IEmbeddingGenerator`
 
-Building MCP servers and clients to understand how LLMs can interact with external tools, APIs and data.
+> CrewAI, LangChain and LangGraph represent hands-on POC experience and ongoing learning rather than expert-level specialization.
 
-**Model Fine-Tuning**
+### MCP & Browser Automation
 
-Experimenting with small language models, LoRA, quantization and domain-specific datasets.
+Exploring how AI can interact with external systems through:
+
+* Model Context Protocol (MCP)
+* MCP servers and clients
+* Tool discovery and calling
+* REST API integration
+* Playwright
+* Browser automation
+* AI-driven browser workflows
+
+### AI-Assisted Development
+
+Exploring AI-assisted software development using:
+
+* GitHub Copilot
+* Cursor
+* AI-assisted coding
+* AI-assisted technical design
+* AI-assisted requirements analysis
+* AI-assisted code review
+* Developer productivity workflows
 
 ---
 
@@ -126,50 +153,23 @@ Experimenting with small language models, LoRA, quantization and domain-specific
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,cs,azure,dotnet,vscode,visualstudio,bootstrap,css,tailwind,html,js,react,jquery,git,github,kubernetes,docker,mongodb,nodejs,python,postgres,aws,postman&perline=12&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,react,azure,aws,sqlserver,mongodb,postgres,docker,kubernetes,git,githubactions,nodejs,python,vscode,visualstudio,postman,html,css,tailwind,bootstrap&perline=12&theme=light" />
   </a>
 </p>
 
 ---
 
-## AI & Developer Tools
+## What I Build
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/MCP-5E5CE6?style=for-the-badge" alt="MCP"/>
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
+My primary focus is building **enterprise-grade software using .NET and Angular**, with supporting experience across cloud, databases, DevOps and distributed systems.
+
+I also use smaller POCs to explore how emerging technologies such as **AI, LLMs, RAG, Agents, MCP and browser automation** can complement traditional software engineering.
+
+My approach is simple:
+
+<p align="center">
+  <strong>Learn → Build → Experiment → Evaluate → Improve</strong>
 </p>
-
----
-
-## Currently Learning
-
-My current focus is:
-
-**AI Engineering → RAG → Agentic AI → Local LLMs → AI + .NET → Production AI Architecture**
-
-I’m particularly interested in the engineering challenges involved in taking AI from a proof of concept to a reliable production system.
-
----
-
-## Engineering Interests
-
-* AI Engineering
-* Agentic AI
-* RAG
-* Local AI
-* Enterprise AI Applications
-* System Design
-* Software Architecture
-* Distributed Systems
-* Microservices
-* Cloud-Native Applications
-* Developer Productivity
-* AI-assisted Software Development
 
 ---
 
@@ -184,7 +184,6 @@ I’m particularly interested in the engineering challenges involved in taking A
   </a>
 </p>
 
-
 ---
 
 ## Connect With Me
@@ -193,11 +192,8 @@ I’m particularly interested in the engineering challenges involved in taking A
   <a target="_blank" href="https://www.linkedin.com/in/supreet-21a79b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <!-- <a target="_blank" href="https://medium.com/@supreet1986">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a> -->
 </p>
 
 <p>
-I’m always interested in connecting with developers, architects, AI engineers and teams working on interesting software and AI problems.
+I’m always interested in connecting with developers, architects, recruiters and teams working on interesting software engineering and technology problems.
 </p>
