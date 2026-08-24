@@ -63,7 +63,7 @@ My goal is to understand not only how to use AI models, but also how to **design
 * Entity Framework / EF Core
 * Microservices
 * SQL Server / Azure SQL
-* MongoDB
+* NoSql
 * PostgreSQL
 
 ### Frontend
@@ -71,7 +71,6 @@ My goal is to understand not only how to use AI models, but also how to **design
 * Angular
 * TypeScript
 * JavaScript
-* React
 * Angular Material
 * PrimeNG
 * Tailwind CSS
@@ -88,8 +87,6 @@ My goal is to understand not only how to use AI models, but also how to **design
 * Azure DevOps
 * Docker
 * Kubernetes
-* Helm
-* GitHub Actions
 * CI/CD
 * AWS
 
